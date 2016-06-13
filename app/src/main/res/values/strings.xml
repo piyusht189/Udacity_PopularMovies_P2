@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">popularmovies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+    <string name="title_activity_trailer">trailer</string>
+    <string name="title_activity_favourite_poster">favourite_poster</string>
+    <string name="title_activity_favourite_detail">favourite_detail</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
